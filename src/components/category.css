@@ -1,0 +1,50 @@
+.container {
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 100px;
+
+}
+
+.category-container h3 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.filter i {
+    color: #0084ff;
+}
+
+.filter span {
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 12px;
+}
+
+.category-option-div {
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.category-list {
+    display: inline-block;
+    width: auto;
+    margin-bottom: 10px;
+    margin-right: 13px;
+    margin-top: 6px;
+}
+
+.category-list a {
+    background-color: white;
+    border: 1px solid #0084ff;
+    border-radius: 16px;
+    text-decoration: none;
+    color: #0084ff;
+    padding: 3px 12px
+}
+
+.category-list a:hover {
+    background-color: #0084ff;
+    color: white;
+}

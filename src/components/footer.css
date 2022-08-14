@@ -1,0 +1,30 @@
+.footer {
+    Background-color: #172146;
+    padding: 8rem;
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer-block {
+    flex-direction: column;
+    color: white;
+    text-align: left;
+}
+
+.footer-heading {
+    color: rgb(191, 186, 186);
+    padding: 1.5rem 0;
+}
+
+.footer-ul {
+    list-style: none;
+}
+
+.footer-list {
+    padding: 0.3rem 0;
+}
+
+.footer-list a {
+    text-decoration: none;
+    color: white;
+}
